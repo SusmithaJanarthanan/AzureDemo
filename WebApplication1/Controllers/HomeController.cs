@@ -15,7 +15,7 @@ namespace WebApplication1.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "My Page updated";
+            ViewBag.Message = "My Azure Page Updated!!!";
 
             return View();
         }
